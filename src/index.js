@@ -13,6 +13,7 @@ app.listen(port, () => logger.info(`server started on port ${port} (${env})`));
 
 /**
 * Exports express
+* Commit test
 * @public
 */
 module.exports = app;
